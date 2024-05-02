@@ -5,6 +5,8 @@
 https://user-images.githubusercontent.com/90474550/226136186-df592b36-2035-4999-97b7-22dcbaa88151.mp4
 
 
+![team_23_2 6f726c7181aa699f767e](https://github.com/Rishab260/Driver-Drowsiness-Detection/assets/90474550/02f2104c-b064-4632-932e-fee207b3260b)
+
 
 <h2>Driver drowsiness detection can benefit society in several ways:</h2>
 
